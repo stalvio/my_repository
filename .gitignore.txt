@@ -1,0 +1,5 @@
+# Ignore all files with .class extension everywhere
+*.class
+
+# Ignore the 'target' folder and all its contents
+target/
